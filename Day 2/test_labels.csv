@@ -1,0 +1,6 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+am5.jpg,800,600,Arduino Mega,7,1,800,576
+asmd5.jpg,800,600,Arduino UNO SMD,27,114,760,490
+au1.jpg,800,600,Arduino UNO,5,1,792,597
+node1.jpg,800,600,NodeMCU,82,163,759,428
+rp5.jpg,800,600,Raspberry Pi,148,118,607,450

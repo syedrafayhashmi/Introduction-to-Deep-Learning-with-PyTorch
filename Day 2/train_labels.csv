@@ -1,0 +1,22 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+am1.jpg,800,600,Arduino Mega,61,116,718,546
+am2.jpg,800,600,Arduino Mega,68,278,720,548
+am3.jpg,800,600,Arduino Mega,38,140,603,436
+am4.jpg,800,600,Arduino Mega,58,165,764,407
+asmd1.jpg,800,600,Arduino UNO SMD,17,12,788,578
+asmd2.jpg,800,600,Arduino UNO SMD,41,24,592,414
+asmd3.jpg,800,600,Arduino UNO SMD,238,89,778,403
+asmd4.jpg,800,600,Arduino UNO SMD,413,157,617,477
+au2.jpg,800,600,Arduino UNO,79,111,617,480
+au3.jpg,800,600,Arduino UNO,174,97,700,467
+au4.jpg,800,600,Arduino UNO,112,164,632,444
+au5.jpg,800,600,Arduino UNO,206,92,621,474
+node2.jpg,800,600,NodeMCU,128,26,628,519
+node3.jpg,800,600,NodeMCU,74,96,684,483
+node4.jpg,800,600,NodeMCU,107,95,691,505
+node5.jpg,800,600,NodeMCU,107,76,410,501
+node5.jpg,800,600,NodeMCU,441,141,695,502
+rp1.jpg,800,600,Raspberry Pi,123,317,403,529
+rp2.jpg,800,600,Raspberry Pi,131,105,655,484
+rp3.jpg,800,600,Raspberry Pi,187,57,635,541
+rp4.jpg,800,600,Raspberry Pi,133,45,659,548
