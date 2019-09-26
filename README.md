@@ -19,6 +19,8 @@ Day 2
 
 -Perceptron Trick
 
+Day 3
+
 -Perceptron Algorithm
  
 -Non-Linear Regions
