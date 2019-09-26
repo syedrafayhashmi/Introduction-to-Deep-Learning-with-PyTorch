@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training_set</folder>
+	<filename>node4.jpg</filename>
+	<path>R:\DL_Pytorch\object_detection\training_set\node4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NodeMCU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>95</ymin>
+			<xmax>691</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+</annotation>
