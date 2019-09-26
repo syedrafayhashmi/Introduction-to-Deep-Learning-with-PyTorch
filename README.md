@@ -10,3 +10,15 @@ Day 1
 -Higher Dimensions
 
 -Perceptrons
+
+Day 2
+
+-Why "Neural Networks"?
+
+-Perceptrons as Logical Operators
+
+-Perceptron Trick
+
+-Perceptron Algorithm
+ 
+-Non-Linear Regions
