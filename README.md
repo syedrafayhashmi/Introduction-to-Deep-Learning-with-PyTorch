@@ -24,3 +24,13 @@ Day 3
 -Perceptron Algorithm
  
 -Non-Linear Regions
+
+-Error Function
+
+Day 4
+
+-Log-loss Error Function
+
+-Discrete vs Continuous
+
+-Softmax
