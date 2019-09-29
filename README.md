@@ -34,3 +34,12 @@ Day 4
 -Discrete vs Continuous
 
 -Softmax
+
+Day 5
+
+-One-Hot Encoding
+ 
+-Maximum Likelihood
+
+-Maximizing Probabilities
+ 
