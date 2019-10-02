@@ -45,5 +45,22 @@ Day 5
  
 Day 6
 
+Cross-Entropy 1
+
+Cross-Entropy 2
+
+Multi-Class Cross Entropy
 Day 7
+Logistic Regression
+
+Gradient Descent
+
+Logistic Regression Algorithm
+
 Day 8
+
+Pre-Notebook: Gradient Descent
+
+Notebook: Gradient Descent
+
+Perceptron vs Gradient Descent
